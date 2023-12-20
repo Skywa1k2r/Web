@@ -1,0 +1,37 @@
+[
+    {
+        "id" : 1,
+        "name" : "Sport shoes blue and pink",
+        "price" : 15,
+        "img" : "https://images.meesho.com/images/products/74353409/xmmkt_256.webp",
+        "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia earum sunt architecto enim aspernatur officiis debitis facere consequuntur unde molestiae animi asperiores aut vel sequi, id iste maiores veniam accusamus."
+    },
+    {
+        "id" : 2,
+        "name" : "CAMPUS AD-650 BLACK/GOLD",
+        "price" : 15,
+        "img" : "https://chakhdi.in/web/image/product.template/3327/image_256/%5BSP738%5D%20CAMPUS%205G835%20MEN%27S%20SPORT%20SHOES%20BLUE?unique=f3681dc",
+        "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia earum sunt architecto enim aspernatur officiis debitis facere consequuntur unde molestiae animi asperiores aut vel sequi, id iste maiores veniam accusamus."
+    },
+    {
+        "id" : 3,
+        "name" : "AIR STYLE 113 LIGHT GRAY",
+        "price" : 15,
+        "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrqLMMX1MsHzjG5Cltpx2Kbgo7qglHU6NHYA&usqp=CAU",
+        "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia earum sunt architecto enim aspernatur officiis debitis facere consequuntur unde molestiae animi asperiores aut vel sequi, id iste maiores veniam accusamus."
+    },
+    {
+        "id" : 4,
+        "name" : "Special NEON",
+        "price" : 15,
+        "img" : "https://images.meesho.com/images/products/315773922/qrvwf_256.webp",
+        "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia earum sunt architecto enim aspernatur officiis debitis facere consequuntur unde molestiae animi asperiores aut vel sequi, id iste maiores veniam accusamus."
+    },
+    {
+        "id" : 5,
+        "name" : "Womens PINK",
+        "price" : 15,
+        "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWRV0kR0TYKEAl7JbnL0Age5hgV8JdHyEdaw&usqp=CAU",
+        "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia earum sunt architecto enim aspernatur officiis debitis facere consequuntur unde molestiae animi asperiores aut vel sequi, id iste maiores veniam accusamus."
+    }
+]
